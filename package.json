@@ -1,0 +1,12 @@
+{
+  "name": "javascript-basico",
+  "version": "1.0.0",
+  "description": "primer poryecto con javascript",
+  "main": "index.js",
+  "scripts": {
+    "saludar":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elvis Perez elvisperezgtz@gmail.com",
+  "license": "MIT"
+}
